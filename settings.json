@@ -1,6 +1,5 @@
 // Place your settings in this file to overwrite the default settings
 {
-
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "editor.fontSize": 15,
     "explorer.openEditors.visible": 9,
@@ -9,5 +8,4 @@
     "editor.cursorBlinking": "phase",
     "editor.formatOnType": true,
     "extensions.autoUpdate": true
-    
 }
